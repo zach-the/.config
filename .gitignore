@@ -1,0 +1,10 @@
+# Ignore Everything
+*
+
+# Unignore Directories (important for Git to even look into them)
+!*/
+
+# Unignore Specific Things
+!kitty/
+!nvim/
+!.gitignore
